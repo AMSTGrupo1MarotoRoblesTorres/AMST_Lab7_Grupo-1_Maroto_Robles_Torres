@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "13317028020",
+    "firebase_url": "https://mitapp-d0b26.firebaseio.com",
+    "project_id": "mitapp-d0b26",
+    "storage_bucket": "mitapp-d0b26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13317028020:android:ff19502c0f17a283bf3fe1",
+        "android_client_info": {
+          "package_name": "com.amst.grupo1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13317028020-4hrhb5jlk9vf8cld5akph787fs8vmir0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amst.grupo1",
+            "certificate_hash": "a8f8dc277e5f44f28c8f1f8c49b1a969e56649a5"
+          }
+        },
+        {
+          "client_id": "13317028020-j7ujj6g65stn5q77g4qnuu7memdruknj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlmWEkYcNRsEBmCipWsOv5FkP5vazjQlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13317028020-j7ujj6g65stn5q77g4qnuu7memdruknj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
